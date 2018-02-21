@@ -6,7 +6,7 @@
 **Teaching Assistant:** Ann Kidder | [a-tbd.com](http://a-tbd.com) | ann@a-tbd.com </br>
 **Class Times:** Tuesdays at 10am </br>
 **Class Location:** School for Poetic Computation  |  [sfpc.io](http://sfpc.io/) |
-(@sfpc_school)[https://twitter.com/sfpc) | 155 Bank St, New York, NY 10014 </br>
+[@sfpc_school](https://twitter.com/sfpc) | 155 Bank St, New York, NY 10014 </br>
 **Office Hours:** Tuesdays, 2-3pm
 
 
