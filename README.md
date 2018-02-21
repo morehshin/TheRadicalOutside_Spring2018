@@ -3,10 +3,15 @@
 
 
 **Instructor:** Morehshin Allahyari | http://morehshin.com  | morehshin@gmail.com
-**Teaching Assistant: Ann Kidder | a-tbd.com | ann@a-tbd.com
+
+**Teaching Assistant:** Ann Kidder | a-tbd.com | ann@a-tbd.com
+
 **Class Times:** Tuesdays at 10am
+
 **Class Location:** School for Poetic Computation  |  http://sfpc.io/
+
 @sfpc_school  | https://twitter.com/sfpc_school | 155 Bank St, New York, NY 10014
+
 **Office Hours:** Tuesdays, 2-3pm
 
 
