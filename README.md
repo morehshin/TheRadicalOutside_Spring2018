@@ -2,11 +2,11 @@
 ## CRITICAL THINKING OF TECHNOLOGY: The Radical Outside II | Spring 2018
 
 
-**Instructor:** Morehshin Allahyari | http://morehshin.com  | morehshin@gmail.com  </br>
-**Teaching Assistant:** Ann Kidder | a-tbd.com | ann@a-tbd.com </br>
+**Instructor:** Morehshin Allahyari | [morehshin.com](http://morehshin.com)  | morehshin@gmail.com  </br>
+**Teaching Assistant:** Ann Kidder | [a-tbd.com](http://a-tbd.com) | ann@a-tbd.com </br>
 **Class Times:** Tuesdays at 10am </br>
-**Class Location:** School for Poetic Computation  |  http://sfpc.io/ </br>
-@sfpc_school  | https://twitter.com/sfpc_school | 155 Bank St, New York, NY 10014 </br>
+**Class Location:** School for Poetic Computation  |  [sfpc.io](http://sfpc.io/) |
+(@sfpc_school)[https://twitter.com/sfpc) | 155 Bank St, New York, NY 10014 </br>
 **Office Hours:** Tuesdays, 2-3pm
 
 
