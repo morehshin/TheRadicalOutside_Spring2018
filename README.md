@@ -33,38 +33,29 @@ Schedule (Please keep an eye on the schedule in this document every week). This 
 
 <br>
 
-# Artist talk by Morehshin + First class-Intro
-<hr>
+## Artist talk by Morehshin + First class-Intro
 <b> Wednesday, February 21, 10am </b>
 
-# On Privacy and Surveillance (Guest Teacher Sarah Aoun) 
-<hr>
+## On Privacy and Surveillance (Guest Teacher Sarah Aoun) 
 <b> Tuesday, March 13, 10am</b>
 
-# On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
-<hr>
+## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
 <b> Tuesday, March 20, 10am </b>
 
-# On Art, Design, and Activism 
-<hr>
+## On Art, Design, and Activism 
 <b> Tuesday, March 27, 10am </b>
 
-# On Manifestos
-<hr>
+## On Manifestos
 <b> Tuesday, April 03, 10am </b>
 
-# On Digital Colonialism 
-<hr>
+## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
 
-# Showcase week: No class 
-<hr>
+## Showcase week: No class 
 <b> Tuesday, April 17 </b>
 
-# Last class & Crit 
-<hr>
+## Last class & Crit 
 <b> Tuesday, April 24, 10am </b>
 
-# Residency week. Graduation party.
-<hr>
+## Residency week. Graduation party.
 <b> Tuesday, May 1</b>
