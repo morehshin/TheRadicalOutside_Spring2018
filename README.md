@@ -3,9 +3,7 @@
 
 
 **Instructor:** Morehshin Allahyari | http://morehshin.com  | morehshin@gmail.com
-
 **Teaching Assistant:** Ann Kidder | a-tbd.com | ann@a-tbd.com
-
 **Class Times:** Tuesdays at 10am
 
 **Class Location:** School for Poetic Computation  |  http://sfpc.io/
