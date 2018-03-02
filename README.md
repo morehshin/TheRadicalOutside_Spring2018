@@ -71,10 +71,15 @@ Schedule (Please keep an eye on the schedule in this document every week). This 
 ------
 **Homework**
 Please submit to the github the night before our class (Monday, March 12)
+
 Prompt 1: It's the year 2050. You are arguing in front of the Supreme Court in favor of increasing surveillance.
+
 - agnes, eunsun, hans, nabil, yeli, phil, riley, sean, sukanya
+
 Prompt 2: It's the year 2050. You are arguing in front of the Supreme Court in favor of regulating the surveillance reach of the government (and the private companies they hire)
+
 - ailadi, gonza, kelly, fame, paola, rachel, sarah, syd, yael
+
 For both prompts, speculate about 1) the state of world affairs, 2) the technologies that exist or are being developed, 3) the political climate in the US, and anywhere else your imagination takes you.
 
 
