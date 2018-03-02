@@ -38,6 +38,45 @@ Schedule (Please keep an eye on the schedule in this document every week). This 
 
 ## On Privacy and Surveillance (Guest Teacher Sarah Aoun) 
 <b> Tuesday, March 13, 10am</b>
+**I - History, Colonialism, Empire**
+
+[Colonial Oversight](https://www.redpepper.org.uk/colonial-oversight/)
+
+[Race, surveillance, and empire](https://isreview.org/issue/96/race-surveillance-and-empire)
+
+[Race, Surveillance and Empire: A Historical Overview (video!)](https://www.youtube.com/watch?v=0CrsqII6las)
+
+**II - Algorithms, Surveillance**
+
+[Taser will use police body camera videos to anticipate criminal activity](https://theintercept.com/2017/04/30/taser-will-use-police-body-camera-videos-to-anticipate-criminal-activity/)
+
+[Palantir has secretly been using New Orleans to test its predictive policing technology](https://www.theverge.com/platform/amp/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd)
+
+[Part 1: Leaked documents reveal counterterrorism tactics used at Standing Rock to "defeat pipeline insurgencies"](https://theintercept.com/2017/05/27/leaked-documents-reveal-security-firms-counterterrorism-tactics-at-standing-rock-to-defeat-pipeline-insurgencies/)
+
+[Part 2: Standing Rock documents expose inner workings of "surveillance industrial complex"](https://theintercept.com/2017/06/03/standing-rock-documents-expose-inner-workings-of-surveillance-industrial-complex/)
+
+[Aadhar, one ID to rule them all](https://www.buzzfeed.com/pranavdixit/one-id-to-rule-them-all-controversy-plagues-indias-aadhaar?)
+
+[Omnipresence is the newest NYPD tactic you've never heard of](https://www.vice.com/en_us/article/vdpq7m/omnipresence-is-the-newest-nypd-tactic-youve-never-heard-of-1020)
+
+[What can an algorithm do](http://dismagazine.com/discussion/72975/josh-scannell-what-can-an-algorithm-do/)
+
+**III - Additional Reading**
+
+[Surveillance as a tool for racism](https://techcrunch.com/2016/04/25/surveillance-as-a-tool-for-racism/)
+
+[How Peter Thiel's Secretive Data Company Pushed Into Policing](https://www.wired.com/story/how-peter-thiels-secretive-data-company-pushed-into-policing/)
+
+------
+**Homework**
+Please submit to the github the night before our class (Monday, March 12)
+Prompt 1: It's the year 2050. You are arguing in front of the Supreme Court in favor of increasing surveillance.
+- agnes, eunsun, hans, nabil, yeli, phil, riley, sean, sukanya
+Prompt 2: It's the year 2050. You are arguing in front of the Supreme Court in favor of regulating the surveillance reach of the government (and the private companies they hire)
+- ailadi, gonza, kelly, fame, paola, rachel, sarah, syd, yael
+For both prompts, speculate about 1) the state of world affairs, 2) the technologies that exist or are being developed, 3) the political climate in the US, and anywhere else your imagination takes you.
+
 
 ## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
 <b> Tuesday, March 20, 10am </b>
