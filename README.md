@@ -72,15 +72,20 @@ Schedule (Please keep an eye on the schedule in this document every week). This 
 **Homework**
 Please submit to the github the night before our class (Monday, March 12)
 
-Prompt 1: It's the year 2050. You are arguing in front of the Supreme Court in favor of increasing surveillance.
+Year 2050- Surveillance Assignment- DUE MARCH 13
 
-- agnes, eunsun, hans, nabil, yeli, phil, riley, sean, sukanya
+**Prompt 1:** It's the year 2050. You are arguing in front of the Supreme Court in favor of increasing surveillance. 
+**Prompt 2:** It's the year 2050. You are arguing in front of the Supreme Court in favor of regulating the surveillance reach of the government (and the private companies they hire)
 
-Prompt 2: It's the year 2050. You are arguing in front of the Supreme Court in favor of regulating the surveillance reach of the government (and the private companies they hire)
+-For both prompts, speculate about 1) the state of world affairs, 2) the technologies that exist or are being developed, 3) the political climate in the US, and anywhere else your imagination takes you. 
 
-- ailadi, gonza, kelly, fame, paola, rachel, sarah, syd, yael
+-Please limit your answers to 600 words maximum. 
 
-For both prompts, speculate about 1) the state of world affairs, 2) the technologies that exist or are being developed, 3) the political climate in the US, and anywhere else your imagination takes you.
+-Please come to class ready to read your story. Practice reading it a bit before the class so you can read it smoothly. 
+
+-We will be recording your readings to be used at the end of the semester for our podcast. You do not need to worry about that right now since we will do all the final decision making and editings the last 2 weeks of the semester together. This is just a heads-up that we will record this material for the podcast.  
+
+
 
 
 ## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
