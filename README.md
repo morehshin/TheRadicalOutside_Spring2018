@@ -72,7 +72,6 @@ Schedule (Please keep an eye on the schedule in this document every week). This 
 **Homework**
 Please submit to the github the night before our class (Monday, March 12)
 
-Year 2050- Surveillance Assignment- DUE MARCH 13
 
 **Prompt 1:** It's the year 2050. You are arguing in front of the Supreme Court in favor of increasing surveillance. 
 **Prompt 2:** It's the year 2050. You are arguing in front of the Supreme Court in favor of regulating the surveillance reach of the government (and the private companies they hire)
