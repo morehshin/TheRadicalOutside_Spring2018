@@ -92,10 +92,10 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 
 
-## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
+## On Art, Design, and Activism  
 <b> Tuesday, March 20, 10am </b>
 
-## On Art, Design, and Activism 
+## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
 <b> Tuesday, March 27, 10am </b>
 
 ## On Manifestos
