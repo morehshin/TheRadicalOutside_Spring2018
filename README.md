@@ -95,6 +95,21 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 ## On Art, Design, and Activism  
 <b> Tuesday, March 20, 10am </b>
 
+* Readings Due (post one paragraph response in the directory named week_3_assignment/)
+[On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
+
+
+**Additional Resources:** 
+* [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
+
+* [Syllabus for White People to Educate Themselves](https://trello.com/c/HPgyHgJn/2-syllabus-for-white-people-to-educate-themselves) - Click "Download pdf" link
+
+* [Charlottesville Syllabus - History of white supremacy in Charlottesville, VA](https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0)
+
+* [Artificial Hells](https://selforganizedseminar.files.wordpress.com/2011/08/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf)
+
+* Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
+
 ## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
 <b> Tuesday, March 27, 10am </b>
 
