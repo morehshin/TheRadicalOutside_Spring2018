@@ -8,4 +8,4 @@ However, there is an ever evolving spiral: the more the technology stack is moni
 
 Additionally, China has by now established and deployed their own version of the tcp/ip stack that is completely unaccessible to our surveillance technologies. This way 2 billion people out of 8 billion population on earth and mars are dark for our surveillance tooling.
 
-This scenario forces us to extend our video based compliance using "connected fabrics" to monitor angles of the public space that are not covered by monitoring consumer goods and services. This is a required step in our continued commitment to our people's security. We urge the supreme court to do justice to our responsibility for the safety of our people through extended surveillance technology.
+This scenario forces us to extend our video based compliance using "connected fabrics" to monitor angles of people's live that are not covered by monitoring consumer goods and services. This is a required step in our continued commitment to our people's security. We urge the supreme court to do justice to our responsibility for the safety of our people through extended surveillance technology.
