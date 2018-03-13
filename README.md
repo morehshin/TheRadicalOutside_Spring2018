@@ -9,12 +9,27 @@
 [@sfpc_school](https://twitter.com/sfpc) | 155 Bank St, New York, NY 10014 </br>
 **Office Hours:** Tuesdays, 2-3pm (Morehshin) | Thursdays 1-5pm (ann)
 
+**Table of Contents**
+[Course description](#desc)
+[Expectations and structure](#expec)
+Feb 21 : [Artist talk by Morehshin](#arttalk)
+Mar 13 : [Guest lecture by Sarah Aoun](#privacy)
+Mar 20 : [Art, Design, and Activism](#activism)
+Mar 27 : [Other Futurisms (Cyberfeminism, Afrofuturism, Gulf-Futurism/Ethnifuturisms)](#futurisms)
+Apr 03 : [Manifestos](#manifestos)
+Apr 10 : [Digital Colonialism](#colonialism)
+Apr 17 : [Showcase week](#showcase)
+Apr 24 : [Last class & crit](#crit)
+May 01 : [Residency week](#residency)
 
+
+<a name="desc"></a>
 **Course description**
 
 This is a theory course for critical thinking of technology through the lens of activism, politics, and the 'outside'; to think and create beyond technology for technology's sake; to ask difficult questions; to read, learn, and engage in technology as a field of contemporary art practices and theories, as well as art historical systems. What will separate this course from many others is a collective effort (by all of us) for 'reflective thinking'; to not find comfort in how - up to this very day - the story of technology is told to us; by which figures and which systems. I hope that together we can build a new library of critical thinking and reading; written and processed by women (+LGBT) and POC.  This is a collaborative course for interrupting and re-building.
 
 
+<a name="expec"></a>
 **Expectations and Structure**
 
 * Each week, there will be a guest speaker who will introduce a topic. We will focus on a combination of historical and contemporary text.
@@ -32,10 +47,11 @@ Best policy for laptop use: laptops down.
 Schedule (Please keep an eye on the schedule in this document every week). This is under construction and will be changed throughout the course. Please feel free to give feedback.
 
 <br>
-
+<a name="arttalk"></a>
 ## Artist talk by Morehshin + First class-Intro
 <b> Wednesday, February 21, 10am </b>
 
+<a name="privacy"></a>
 ## On Privacy and Surveillance (Guest Teacher Sarah Aoun) 
 <b> Tuesday, March 13, 10am</b>
 **I - History, Colonialism, Empire**
@@ -91,15 +107,15 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 
 
-
-## On Art, Design, and Activism  
+<a name="activism"></a>
+## On Art, Design, and Activism 
 <b> Tuesday, March 20, 10am </b>
 
 * Readings Due (post one paragraph response in the directory named week_3_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
 
-**Additional Resources:** 
+**Additional Resources:**
 * [Art Activism Reader](https://www.dropbox.com/s/519zt6f8uibx3az/art-activism-reader.pdf?dl=0)
 
 * [Syllabus for White People to Educate Themselves](https://trello.com/c/HPgyHgJn/2-syllabus-for-white-people-to-educate-themselves) - Click "Download pdf" link
@@ -110,20 +126,26 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 * Art Activism and politics: [Ideology, Confrontation and Political Self-Awareness By Adrian Piper](https://www.dropbox.com/s/vfr1t7a513eci6e/Ideology%2C%20Confrontation%20and%20Political%20Self-Awareness%20By%20Adrian%20Piper.pdf?dl=0)
 
-## On Other Futurisms (Cyberfeminism, Aforfuturism, Gulf-Futurism/Ethnifuturisms) 
+<a name="futurisms"></a>
+## On Other Futurisms (Cyberfeminism, Afrofuturism, Gulf-Futurism/Ethnifuturisms) 
 <b> Tuesday, March 27, 10am </b>
 
+<a name="manifestos"></a>
 ## On Manifestos
 <b> Tuesday, April 03, 10am </b>
 
+<a name="colonialism"></a>
 ## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
 
+<a name="showcase"></a>
 ## Showcase week: No class 
 <b> Tuesday, April 17 </b>
 
+<a name="crit"></a>
 ## Last class & Crit 
 <b> Tuesday, April 24, 10am </b>
 
+<a name="residency"></a>
 ## Residency week. Graduation party.
 <b> Tuesday, May 1</b>
