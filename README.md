@@ -9,7 +9,7 @@
 [@sfpc_school](https://twitter.com/sfpc) | 155 Bank St, New York, NY 10014 </br>
 **Office Hours:** Tuesdays, 2-3pm (Morehshin) | Thursdays 1-5pm (ann)
 
-**Table of Contents**
+**Table of Contents**</br>
 [Course description](#desc)</br>
 [Expectations and structure](#expec)</br>
 Feb 21 : [Artist talk by Morehshin](#arttalk)</br>
