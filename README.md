@@ -10,16 +10,27 @@
 **Office Hours:** Tuesdays, 2-3pm (Morehshin) | Thursdays 1-5pm (ann)
 
 **Table of Contents**
+
 [Course description](#desc)
+
 [Expectations and structure](#expec)
+
 Feb 21 : [Artist talk by Morehshin](#arttalk)
+
 Mar 13 : [Guest lecture by Sarah Aoun](#privacy)
+
 Mar 20 : [Art, Design, and Activism](#activism)
+
 Mar 27 : [Other Futurisms (Cyberfeminism, Afrofuturism, Gulf-Futurism/Ethnifuturisms)](#futurisms)
+
 Apr 03 : [Manifestos](#manifestos)
+
 Apr 10 : [Digital Colonialism](#colonialism)
+
 Apr 17 : [Showcase week](#showcase)
+
 Apr 24 : [Last class & crit](#crit)
+
 May 01 : [Residency week](#residency)
 
 
