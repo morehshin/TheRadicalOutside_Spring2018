@@ -1,4 +1,4 @@
-### H3 It's the year 2050. You are arguing in front of the Supreme Court *in favor of regulating* the surveillance reach of the government
+### It's the year 2050. You are arguing in front of the Supreme Court *in favor of regulating* the surveillance reach of the government
 
 Nowadays, in the year of 2050 that some people could preserve consciousness to digital form and download to an artificial body. We’re the first generation to have this ability to remain in the thing government called perfect body, an eternity which digital and physical identity merge into a new form.
 
