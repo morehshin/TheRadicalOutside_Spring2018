@@ -1,0 +1,55 @@
+         And with that, I’ll reserve the
+balance of my time.  Thank you.
+         CHEIF JUSTICE O’NEIL:  Thank you,
+counsel.
+         Mx. Schleihauf.
+           ORAL ARGUMENT OF JOHN P. SCHLEIHAUF
+               ON BEHALF OF THE RESPONDENT
+         MX. SCHLEIHAUF:  Thank you, Ms. Chief
+Justice, and may it please the Court:
+         The federal wiretap statute, Title
+III, was enacted almost 100 years ago in
+response to national concern over wiretapping
+and the threat it posed to individual privacy.
+         Title III prohibited wiretapping
+unless a series of detailed requirements was
+met. And to ensure compliance with those
+requirements, Title III directed the
+suppression of the evidence derived from a
+wiretap order when there was an error in
+obtaining, issuing, or executing that order.
+         The root of the question today is,
+do brain-computer transmission intercepts fall
+under a 1960s definition of wiretap?
+         Title III applies to to “wire, oral,
+or electronic communications”.  If none of
+these describes brain-computer uploads, then
+we contend that all intercepts are not subject
+to Title III.
+         While the petitioner made no claim
+that uploads could be described as “wire” or
+“oral”, I would like to note that “wire”,
+here, refers to actual physical wires that
+used to connect every household --
+         JUSTICE GREY:  Can you get to your
+point?
+         MX. SCHLEIHAUF:  Of course. My point
+is simply that this law was written with
+specific applications in mind, by people who
+couldn’t even imagine the technology we have
+today.
+         Today’s brain-computer upload
+technology does not use electricity, and so,
+in our opinion, cannot be described as
+electronic communication subject to Title III.
+
+<...running out of time to put my ideas in this format...>
+
+         Our automated systems only flag those
+whose patterns of behaviour indicate increased
+risk of becoming radicalized, as per ___.
+
+- we have seen the benefits that private companies can provide with universal access to consumers’ most personal information. shouldn’t the government strive to do the same?
+- everyone expects us to be listening at all times. our abilities actually trail behind popular cynicism.
+- <specific person> was able to evade capture for four weeks due to bureaucratic tie-ups in obtaining warrants
+- <other person> was unable to call 911 due to <x>. had we had active universal surveillance, we could have saved them
