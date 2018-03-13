@@ -111,7 +111,7 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 ## On Art, Design, and Activism 
 <b> Tuesday, March 20, 10am </b>
 
-* Readings Due (post one paragraph response in the directory named week_3_assignment/)
+* Readings Due (post one paragraph response in the directory named mar_20_assignment/)
 [On Art Activism by Boris Groys](http://www.e-flux.com/journal/56/60343/on-art-activism/)
 
 
