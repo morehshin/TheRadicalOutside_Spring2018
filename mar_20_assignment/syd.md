@@ -4,18 +4,18 @@
 > I am committed to the political project of imagining how to detach from lives that don't work
 > and from worlds that negate the subjects that produce them; and I aim, along with many anti normative activists, to expand the field
 > of affective potentialities, latent and explicit fantasies, and infrastructures for how to live beyond survival,
-> *toward flourishing not later but in the ongoing now.*  -Lee Edelman, *Sex, or The Unbearable* [emph mine] 
+> *toward flourishing not later but in the ongoing now.*  -Lee Edelman, *Sex, or The Unbearable* [emph mine]
 
 > I want freedom, the right to self-expression, everybody's right to beautiful, radiant things.
 > -Emma Goldman, *Living My Life*
 
-> If what you want is jobs
-> for everyone, you are still the enemy,
-> you have not thought thru, clearly
+> If what you want is jobs <br>
+> for everyone, you are still the enemy, <br>
+> you have not thought thru, clearly <br>
 > what that means
 >
-> ...remeber
-> you can have what you ask for, ask for
+> ...remeber <br>
+> you can have what you ask for, ask for <br>
 > everything.      -Diane di Prima, Revolutionary Letter #19
 
 I paste these three quotes here as a sort of reflex response and a reminder that whatever theory hole I dig myself into, ultimatly I believe in art to celebrate ourselves now and to imagine our futures. Its role in getting us from here to there I think is what gets complicated.
