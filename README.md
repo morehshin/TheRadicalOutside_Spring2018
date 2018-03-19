@@ -135,6 +135,11 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 **Essential Reading: [On Climate / Borders / Survival / Care / Struggle:**](http://www.basepublication.org/?p=474)
 
+Guest Speaker: Ayodamola Okunseinde
+
+
+[Reading from Ayodamola](https://docs.google.com/document/d/1R4EBa0NnlWVbYaDZz6QxwFwTWjVTIXCclkr1NqRDiWk/edit?usp=sharing) 
+
 
 
 **Additional Resources:**
