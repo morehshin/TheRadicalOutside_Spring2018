@@ -131,9 +131,9 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 <b> Tuesday, March 27, 10am </b>
 
-**Writing Assignmnet Due**: [Write one paragraph fiction on 're-imagining  and re-building the future'] (https://docs.google.com/document/d/17qDiJnTkB5mMubBRYbAhTsQvkgeBsX89mg-ZgKvHoBE/edit?usp=sharing)
+**Writing Assignmnet Due**: [Write one paragraph fiction on 're-imagining  and re-building the future](https://docs.google.com/document/d/17qDiJnTkB5mMubBRYbAhTsQvkgeBsX89mg-ZgKvHoBE/edit?usp=sharing)
 
-**Essential Reading: [On Climate / Borders / Survival / Care / Struggle:**] (http://www.basepublication.org/?p=474)
+**Essential Reading: [On Climate / Borders / Survival / Care / Struggle:**](http://www.basepublication.org/?p=474)
 
 
 
