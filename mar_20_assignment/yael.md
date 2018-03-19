@@ -2,7 +2,7 @@
 ## Questions jotted down while reading On Art Activism
 
 ## Aestheticization of politics vs politicizing art 
-Is there be a space for both? Does one impede the other or do they overlap? Are designers merely complying since a user and their needs define the end product (even though grounded in form, function and meaning) no matter how creative the process? Does design always improve the status quo? How often is design just adding too much to an existing reality, far from actually improving it?
+Is there a space for both? Does one impede the other or do they overlap? Are designers merely complying since a user and their needs define the end product (even though grounded in form, function and meaning) no matter how creative the process? Does design always improve the status quo? How often is design just adding too much to an existing reality, far from actually improving it?
 We can endlessly reproduce our voices via social media. When or how do we define the point of saturation? Does accessibility define the suitable moment, space or medium for action? Is accessibility related more to the creator or to their audience?
 
 What is the role of subjective work in the space between aestheticization of politics vs politicizing art?
