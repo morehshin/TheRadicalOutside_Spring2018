@@ -128,7 +128,32 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 
 <a name="futurisms"></a>
 ## On Other Futurisms (Cyberfeminism, Afrofuturism, Gulf-Futurism/Ethnifuturisms) 
+
 <b> Tuesday, March 27, 10am </b>
+
+**Writing Assignmnet Due**: [Write one paragraph fiction on 're-imagining  and re-building the future](https://docs.google.com/document/d/17qDiJnTkB5mMubBRYbAhTsQvkgeBsX89mg-ZgKvHoBE/edit?usp=sharing)
+
+**Essential Reading: [On Climate / Borders / Survival / Care / Struggle:**](http://www.basepublication.org/?p=474)
+
+**Guest Speaker: Ayodamola Okunseinde**
+
+
+**[Reading from Ayodamola](https://docs.google.com/document/d/1R4EBa0NnlWVbYaDZz6QxwFwTWjVTIXCclkr1NqRDiWk/edit?usp=sharing)** 
+
+
+**Additional Resources:**
+[Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
+
+[Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
+
+[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
+
+[Ethnic Futurism In The Gulf](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
+
+[Imagining a Middle-East](https://www.ici-berlin.org/events/imaging-a-middle-east/)
+
+[Delusions of Grandeur: GCC at MoMA PS1 and the New Museum](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
+[Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 
 <a name="manifestos"></a>
 ## On Manifestos
