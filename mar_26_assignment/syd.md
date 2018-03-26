@@ -1,6 +1,6 @@
-######Thinking about the futures promised by Zuc and Musk I wanted to try and
-######imagine a future where a very normalized technology of today actually
-######disappeared rather than evolved. Also thinking about this book "The Traffic Power Structure" by Plank.nu. Otherwise I've superficially kept things similar (unclear whether borders have been abolished or not) as a sort of contrast
+###### Thinking about the futures promised by Zuc and Musk I wanted to try and
+###### imagine a future where a very normalized technology of today actually
+###### disappeared rather than evolved. Also thinking about this book "The Traffic Power Structure" by Plank.nu. Otherwise I've superficially kept things similar (unclear whether borders have been abolished or not) as a sort of contrast
 
 ## Press Release: New York Achieves Vision Zero!
 
