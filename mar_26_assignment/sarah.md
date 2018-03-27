@@ -10,5 +10,7 @@ Border-dissolution devices.
 
 Signal-scramblers for groups being hunted by militia.
 
+Sonic anti-weapons that generate empathy and warmth.
+
 
 
