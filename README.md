@@ -159,6 +159,8 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 ## On Manifestos
 <b> Tuesday, April 03, 10am </b>
 
+Choose 3 manifestos from the lists below and write one paragraph respond to them. Post on class blog. 
+
  [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
  
  
