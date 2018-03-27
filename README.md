@@ -187,6 +187,7 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 * Iterative Book Development Manifesto, by Adam Hyde (2012)
 * A CryptoParty Manifesto (2012)
 * Bill Of Computer Users Rights, by Olia Lialina (2013)
+* The Mundane Afrofuturist
 * Balconism, by Constant Dullaart (2014)
 * A feminist server manifesto (2014)
 * the cybertwee manifesto, by Hileman, Forest, Waver (2014)
