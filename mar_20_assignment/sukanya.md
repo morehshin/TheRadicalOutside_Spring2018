@@ -2,7 +2,7 @@ Better late than never…
 
 I think Boris aestheticized his point… he defunctionalized his arguement by decorating it with academic jargon.
 
-He makes sweeping statements, and forgets to articulate his definition of art - which seems rather narrow. 
+He makes sweeping statements, and forgets to articulate his definition of _art_ - which seems rather narrow. 
 
 I am bored of his west-centric view, and his disregard to acknowledge it. 
 
