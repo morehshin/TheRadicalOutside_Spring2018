@@ -13,3 +13,4 @@ I have heard rumors that in the south of Nigeria the UN is delivering a type of 
 I have the certainty that they make us walk so much, to kill us little by little, the resources don’t reach all and only some have access to them, why design food if in reality it’s better to die?
 
 We are dying slowly, my body tells me that and now it only feels the cold.
+
