@@ -194,7 +194,11 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 * New Clues, by David Weinberger and Doc Searls (2015)
 * Xenofeminism, by Laboria Cuboniks (2015)
 
-<a name="colonialism"></a>
+<a name="colonialism"></a> 
+
+**Listen to podcast from last cohort [here](https://www.dropbox.com/s/o9g24iynuu9o5nf/ManifestoPodcast.aif?dl=0)**
+
+
 ## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
 
