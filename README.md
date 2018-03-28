@@ -196,7 +196,7 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 
 <a name="colonialism"></a> 
 
-**Listen to podcast from last cohort [here](https://www.dropbox.com/s/o9g24iynuu9o5nf/ManifestoPodcast.aif?dl=0)**
+*** **Listen to podcast from last cohort [here](https://www.dropbox.com/s/o9g24iynuu9o5nf/ManifestoPodcast.aif?dl=0)**
 
 
 ## On Digital Colonialism 
