@@ -11,7 +11,7 @@ Steps to verify caring technology:
 2) Caring technology introducing newly engineered transformation layers (protocols, encoding techniques, programming languages, ..) removes two existing ones.
 3) Resoultions and glitches (technical, social, ethical) of caring technology are outlined to its audience as part of an end user experience agreement.
 
-While humankind has been anxiously looking forward to the point when machines become smarter than humans, actual singularity is when the human figure becomes a homogenous agent in a totally designed world and humans become slaves to their machines. It is now the obligation of the caring technologists to take action to save humankind and emancipate us. This will allow us to be playful with it and grow beyond it, growing beyond the state after the end of history.
+While humankind has been anxiously looking forward to the point when machines become smarter than humans, actual singularity is when the human figure becomes a homogenous agent in a totally designed world and humans become slaves to their machines. It is now the obligation of the caring technologists to take action to save humankind and emancipate us. This will allow us to be playful with an engineered world and grow beyond it, growing beyond the state after the end of history.
 
 It is here that you have to do things that when you are gone dont leave behind.
 
