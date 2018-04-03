@@ -10,7 +10,7 @@ as “multiple media that gave vivid expression to the emerging political positi
 Inclusion and demystification of computers, where everyone can participate (non-hierarchal control or contribution of content), support or oppose. The manifesto could suggest, or act as, a template to other nowadays topics.
   Example: *Any nitwit can understand ~~computers~~ (replace with any other centralized domain) and many do. Unfortunately, due to ridiculous historical circumstances, ~~computers~~ (replace with any other centralized domain) have been made a mystery to most of the world….*
 
-  *…Any bright highschool kid, or anyone else who can stumble through the details of a ~~photography magazine~~ (Wikipedia, webMD, Psychology Today, TED?) should be able to understand this book (topic), or get the main ideas. This will not make you a ~~programmer~~ (replace with expert practitioner) or a ~~computer person~~ (replace with enthusiastic user), though it may help you talk that talk, and perhaps make you feel more comfortable (or at least able to cope) when new ~~machines~~ (replace with devices or ideas?) encroach on your life.*
+  …*Any bright highschool kid, or anyone else who can stumble through the details of a ~~photography magazine~~ (Wikipedia, webMD, Psychology Today, TED?) should be able to understand this book (topic), or get the main ideas. This will not make you a ~~programmer~~ (replace with expert practitioner) or a ~~computer person~~ (replace with enthusiastic user), though it may help you talk that talk, and perhaps make you feel more comfortable (or at least able to cope) when new ~~machines~~ (replace with devices or ideas?) encroach on your life.*
 
 *** 
 
