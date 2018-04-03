@@ -15,4 +15,4 @@ The manifesto point to the norm-systems to emphasize how the glitch, as an error
 
 **Notes**
 - the name of manifesto set expectation of details of the Manifesto.
-- 
+
