@@ -7,9 +7,9 @@ The layers of engineered transformations that our services are based on obfuscat
 The caring technologist refuses to stay locked into one medium and is interdisciplinarity. The manifesto on glitch research explores functioning of computational objects in irregular ways. It states "Flow cannot be understood without interruption or function without glitching". This manifesto for the caring technologist is not limitted to exploring and resolving glitches of digital computation but embraces glitches on all designed transformations such as the interplay of physical quantities in electro-mechanic systems, sensoric, actoric, human perception, vision, protocols and computation.
 
 Steps to verify caring technology:
-1) It is documented and illustrated in a way it could be reproduced by its client to maximize transparrency. Transparant technology can be identified by its diy kit shipped with the product. 
-2) Every newly introduced transformation layer (protocols, encoding techniques, programming languages, ..) has to remove at least two existing ones.
-3) The resoultion and the glitches (technical, social, ethical) of a technology need to be outlined to its audience as part of an end user experience agreement.
+1) It is documented and illustrated in a way it could be reproduced by its client. Transparant technology can be identified by its diy kit shipped with the product. 
+2) Caring technology introducing newly engineered transformation layers (protocols, encoding techniques, programming languages, ..) removes two existing ones.
+3) Resoultions and glitches (technical, social, ethical) of caring technology are outlined to its audience as part of an end user experience agreement.
 
 While humankind has been anxiously looking forward to the point when machines become smarter than humans, actual singularity is when the human figure becomes a homogenous agent in a totally designed world and humans become slaves to their machines. It is now the obligation of the caring technologists to take action to save humankind. 
 
