@@ -2,11 +2,11 @@
 
 Confronted with so many choices of readings I decided to focus on gender-relevant manifestos (I use this phrase since they don't all explicitly say feminist). I was curious to see if there were any trends or changes over time, and I also recently ready a kind of TERFy interview about xenofeminism and was curious about the manifesto itself. So I investigated all or in part of:
 
-Cyborg Manifesto (1984)
-Cyberfeminist Manifesto for the 21st Century (1991)
-A Feminist Server Manifesto (2013)
-The Cybertwee Manifesto (2014)
-Xenofeminist Manifesto (2015)
+ Cyborg Manifesto (1984) <br>
+ Cyberfeminist Manifesto for the 21st Century (1991) <br>
+ A Feminist Server Manifesto (2013) <br>
+ The Cybertwee Manifesto (2014) <br>
+ Xenofeminist Manifesto (2015)
 
 As with probably any manifesto, the immediate connecting thread is that they are all "againts" a current status-quo, in this case around women, femininity, and gendered labor. The Cyborg Manifesto and Xenofeminist Manifesto make for interesting bookends in that both explicitly engage with historical discourses around the construction of "women" and seek to destabilize and unsettle that normalization. Haraway in particular is responding to the radical feminist notion of the time that there is some essential pre-patriarchy "starting point" women could get back to, rather than a total reimagining going forward. (1) These are also the longest manifestos, which allows for nuance and fleshing out of ideas, but means they lack the punch and spirit of some of the shorter ones.
 
