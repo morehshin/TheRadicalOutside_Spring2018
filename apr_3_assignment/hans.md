@@ -19,7 +19,7 @@ Hans Steinbrecher, 2018
 References:
 1) Rosa Menkman, [Glitch Studies Manifesto](https://github.com/greyscalepress/manifestos/blob/master/content/manifestos/2009-glitch-studies.md) 
 2) Rosa Menkman and Daniel Rourke, [Interview Rosa Menkman and Daniel Rourke](https://www.furtherfield.org/resolution-disputes-a-conversation-between-rosa-menkman-and-daniel-rourke) 
-3) Moreshin Allahyari, [3d Additivism Manifesto](http://additivism.org/manifesto)
+3) Moreshin Allahyari, [The 3D Additivist Manifesto](http://additivism.org/manifesto)
 4) Juan Antonio Olivares, [Moléculas](https://vimeo.com/197990049)
 5) Chaos Computing Club, [We lost](http://fffff.at/rip/) 
 6) Boris Groys [On Art Activism](http://www.e-flux.com/journal/56/60343/on-art-activism/)
