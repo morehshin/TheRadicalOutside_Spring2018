@@ -4,7 +4,7 @@
 * Declaration of the Independence of Cyberspace
 
 I chose these manifestos not expecting them to complement each other, but thought their differences and similarities were interesting.
-My main takeaway from the Critical Interface Manifesto was a largely good one, having already been a fan of Galloway's Interface Effect and unquestionably agreeing with everything they're arguing for. Their general interpretation of a manifesto is "a political declaration of intentions or views", which is somewhat how I tend to view a manifesto as well. The bullet points listed in the draft seem to assert themselves as easily digestible factoids.
+My main takeaway from the Critical Interface Manifesto was a largely good one, having already been a fan of Galloway's Interface Effect and unquestionably agreeing with everything they're arguing for. Their general interpretation of a manifesto is "a political declaration of intentions or views", which is somewhat how I tend to view a manifesto as well. The bullet points listed in the draft seem to assert themselves as facts, in an easily digestible manner. I guess maybe that's what a manifesto is- making assertions about the way things are and a stance on what needs to be changed? 
 
 I'm a bit amused by the Agile Manifesto. I guess it is sort of political in that it deals with business and office "politics." Is it "fighting a lack of ethics" like the interface manifesto? To mee it seems like more of a list of guidelines on how to behave, as a much tamer corporate strategy than its overtly political counterparts.
 
