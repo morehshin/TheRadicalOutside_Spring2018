@@ -210,7 +210,7 @@ Reading due: post one paragraph response in the directory named apr_10_assignmen
 
 **or**
 
-[Black Quantum Futurism: Theory & Practice (Volume 1)](https://www.amazon.com/Black-Quantum-Futurism-Theory-Practice/dp/099600503X/ref=asap_bc?ie=UTF8) 
+[Black Quantum Futurism](https://youtu.be/Fd1LHsnlVC8?t=43m3s)  
 
 
 
