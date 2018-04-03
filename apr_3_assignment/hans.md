@@ -11,7 +11,7 @@ Steps to verify caring technology:
 2) Every newly introduced transformation layer (protocols, encoding techniques, programming languages, ..) has to remove at least two existing ones.
 3) The resoultion (technical, social, ethical) of a technology needs to be outlined to its audience as part of an end user resolution agreement.
 
-While we have been anxiously looking forward to the point when machines will be smarter than humans, actual singularity is when the human figure becomes a homogenous agents in a totally designed world. It is now the obligation of the caring technologists to take action. It is here that you have to do things that when you are gone dont leave behind.
+While we have been anxiously looking forward to the point when machines will be smarter than humans, actual singularity is when the human figure becomes a homogenous agent in a totally designed world. It is now the obligation of the caring technologists to take action. It is here that you have to do things that when you are gone dont leave behind.
 
 Hans Steinbrecher, 2018
 
