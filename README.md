@@ -202,6 +202,17 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 ## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
 
+Reading due: post one paragraph response in the directory named apr_10_assignment/ choosing one of the below material) (In Defense of the Poor Image)[http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/ ]
+
+**or**
+
+[Black Quantum Futurism: Theory & Practice (Volume 1)](https://www.amazon.com/Black-Quantum-Futurism-Theory-Practice/dp/099600503X/ref=asap_bc?ie=UTF8) 
+
+
+
+Guest Speaker/TBA
+
+
 <a name="showcase"></a>
 ## Showcase week: No class 
 <b> Tuesday, April 17 </b>
