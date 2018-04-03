@@ -15,6 +15,8 @@ I've never been exposed to any manifestos in any of my schooling. I could see th
 
 It's an interesting writing style, very oppositional. They feel adolescent in that spirit: black & white. There's a flatness in the writing style & presentation that's like a war with a straw man: you see what the authors are fighting against as well as for.
 
+I especially liked the Iterative Book Development one b/c it was four lines long. So I've responded with a four line of my own, 
+
 ## Manifesto for comfort and frivolity
 
 * Eat snow when it is fresh
