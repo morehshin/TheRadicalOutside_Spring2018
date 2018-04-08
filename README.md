@@ -214,7 +214,10 @@ Reading due: post one paragraph response in the directory named apr_10_assignmen
 
 
 
-Guest Speaker/TBA
+**Guest Speaker: Fei Liu** 
+
+
+Fei Liu is a designer, artist, writer, and creative technologist exploring digital empathy and narrative interfaces. She teaches at the Design and Technology program at Parsons, The New School for Design, where she received an MFA. Her previous residencies include Researcher in Residence at the New Museum’s art and tech incubator NEW INC and the Digital Solitude fellowship at Akademie Schloss Solitude in Stuttgart, Germany.
 
 
 <a name="showcase"></a>
