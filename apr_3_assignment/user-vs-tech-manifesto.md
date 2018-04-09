@@ -1,7 +1,7 @@
 Manifest on user versus technology interaction
 
 # Our configuration 
-This manifesto is written for native technology users. It gives guidance gaiidens on an user’s role when using technology. Living in a world of technology should not give the impression to an user of living in a digital world. A technology user needs to understand that all experiences trigger analog actions. It is crucial for a technology user to understand the analog action can be triggered but is not requiring digital experience.
+This manifesto is written for native technology users. It gives guidance on an user’s role when using technology. Living in a world of technology should not give the impression to an user of living in a digital world. A technology user needs to understand that all experiences trigger analog actions. It is crucial for a technology user to understand the analog action can be triggered but is not requiring digital experience.
 
 Digital triggers:
 - Monitors.  - eye
