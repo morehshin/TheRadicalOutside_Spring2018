@@ -22,6 +22,8 @@ Apr 17 : [Showcase week](#showcase)</br>
 Apr 24 : [Last class & crit](#crit)</br>
 May 01 : [Residency week](#residency)
 
+[Podcast Assignments](#podcast)
+
 
 <a name="desc"></a>
 **Course description**
@@ -138,15 +140,15 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 **Guest Speaker: Ayodamola Okunseinde**
 
 
-**[Reading from Ayodamola](https://docs.google.com/document/d/1R4EBa0NnlWVbYaDZz6QxwFwTWjVTIXCclkr1NqRDiWk/edit?usp=sharing)** 
+**[Reading from Ayodamola](https://docs.google.com/document/d/1R4EBa0NnlWVbYaDZz6QxwFwTWjVTIXCclkr1NqRDiWk/edit?usp=sharing)**
 
 
 **Additional Resources:**
 [Kodwo Eshun, “Further Considerations of Afrofuturism,” CR: The New Centennial Review, Volume 3, Issue 2, pp. 287-302 (Summer 2003)](https://growingrootsnyc.files.wordpress.com/2012/05/eshun-further-considerations-on-afrofuturism2.pdf)
 
-[Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)  
+[Drexciya, The Quest (1997)](https://drive.google.com/drive/folders/0B-DzrgWEbPfEa2JMVHFlcDJVbkk)
 
-[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) 
+[A Cyborg Manifesto by Donna Haraway](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
 
 [Ethnic Futurism In The Gulf](http://thesigers.com/analysis/2013/7/31/ethnic-futurism-in-the-gulf.html)
 
@@ -159,14 +161,14 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 ## On Manifestos
 <b> Tuesday, April 03, 10am </b>
 
-Choose 3 manifestos from the lists below and write one paragraph respond to them. Post on class blog. 
+Choose 3 manifestos from the lists below and write one paragraph respond to them. Post on class blog.
 
- [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
- 
- 
- 
- **Some other suggestions:** 
- 
+ [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
+
+
+
+ **Some other suggestions:**
+
  * Computer Lib, by Theodor Nelson (1974)
 * The GNU Manifesto, by Richard Stallman (1985)
 * The Hacker’s Manifesto, by The Mentor (1986)
@@ -194,7 +196,7 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 * New Clues, by David Weinberger and Doc Searls (2015)
 * Xenofeminism, by Laboria Cuboniks (2015)
 
-<a name="colonialism"></a> 
+<a name="colonialism"></a>
 
 *** **Listen to podcast from last cohort [here](https://www.dropbox.com/s/o9g24iynuu9o5nf/ManifestoPodcast.aif?dl=0)**
 
@@ -202,7 +204,7 @@ Choose 3 manifestos from the lists below and write one paragraph respond to them
 ## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
 
-Reading due: post one paragraph response in the directory named apr_10_assignment/ choosing one of the below material) 
+Reading due: post one paragraph response in the directory named apr_10_assignment/ choosing one of the below material)
 
 
 
@@ -210,11 +212,11 @@ Reading due: post one paragraph response in the directory named apr_10_assignmen
 
 **or**
 
-[Black Quantum Futurism](https://youtu.be/Fd1LHsnlVC8?t=43m3s)  
+[Black Quantum Futurism](https://youtu.be/Fd1LHsnlVC8?t=43m3s)
 
 
 
-**Guest Speaker: Fei Liu** 
+**Guest Speaker: Fei Liu**
 
 
 Fei Liu is a designer, artist, writer, and creative technologist exploring digital empathy and narrative interfaces. She teaches at the Design and Technology program at Parsons, The New School for Design, where she received an MFA. Her previous residencies include Researcher in Residence at the New Museum’s art and tech incubator NEW INC and the Digital Solitude fellowship at Akademie Schloss Solitude in Stuttgart, Germany.
@@ -231,3 +233,20 @@ Fei Liu is a designer, artist, writer, and creative technologist exploring digit
 <a name="residency"></a>
 ## Residency week. Graduation party.
 <b> Tuesday, May 1</b>
+
+<a name="podcast"></a>
+## Podcast Assignments
+Digital Colonialism
+- Riley, Nabil, Sarah
+
+Art Activism
+- Hans, Sean, Eunsun, Ailadi
+
+Manifestos
+- Syd, Yeli, Phil, Yael
+
+Surveillance
+- Sukanya, Phil, Kelly, Fame
+
+Futures
+- Agnes, Pao, Gonza, Rachel
