@@ -1,4 +1,4 @@
-Better late than never…
+Better late than never… . 
 
 I think Boris aestheticized his point… he defunctionalized his arguement by decorating it with academic jargon.
 
