@@ -1,4 +1,4 @@
-This paragraph is responds to the article "In Defense of the Poor Image".
+This paragraph responds to the article "In Defense of the Poor Image".
 
 "Poor images are poor because they are not assigned any value within the class society of images" which is based on resolution not sharpness. 
 
