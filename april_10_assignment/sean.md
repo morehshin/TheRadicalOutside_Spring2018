@@ -4,4 +4,4 @@ Maybe it's just my mood right now, but the argument the author made with this es
 
 And wrapping the essay up with "It's about reality"? Come on. 
 
-But maybe I'm unsympathetic because my craft isn't going through a huge disruption in the way it's consumed and created. I might write an essay like this when writing code becomes commonplace. But amongst the crappy blogs, we get things like The Pudding. And among the 'poor image' cinema, we get the films of Sean Baker. That's a good thing.
+(But maybe I'm unsympathetic because my craft isn't going through a huge disruption in the way it's consumed and created. I might write an essay like this when writing code becomes commonplace. But amongst the crappy blogs, we get things like The Pudding. And among the 'poor image' cinema, we get the films of Sean Baker. That's a good thing. I'm excited for what's ahead in code-based media. I hope I'm just as excited when that change actually arrives.)
