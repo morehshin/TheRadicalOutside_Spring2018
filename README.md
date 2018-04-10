@@ -246,7 +246,7 @@ Manifestos
 - Syd, Yeli, Phil, Yael
 
 Surveillance
-- Sukanya, Phil, Kelly, Fame
+- Sukanya, Kelly, Fame
 
 Futures
 - Agnes, Pao, Gonza, Rachel
