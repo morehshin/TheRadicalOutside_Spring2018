@@ -159,9 +159,66 @@ For both prompts, speculate about 1) the state of world affairs, 2) the technolo
 ## On Manifestos
 <b> Tuesday, April 03, 10am </b>
 
-<a name="colonialism"></a>
+Choose 3 manifestos from the lists below and write one paragraph respond to them. Post on class blog. 
+
+ [A COLLECTION OF MANIFESTOS](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)  
+ 
+ 
+ 
+ **Some other suggestions:** 
+ 
+ * Computer Lib, by Theodor Nelson (1974)
+* The GNU Manifesto, by Richard Stallman (1985)
+* The Hacker’s Manifesto, by The Mentor (1986)
+* Manifesto for the Unstable Media (1987)
+* Cyberfeminist Manifesto for the 21st Century, by VNS Matrix (1991)
+* A Declaration of the Independence of Cyberspace, by John Perry Barlow (1996)
+* Manifeste du Web indépendant, par le minirézo (1997)
+* Die Hackerethik, Chaos Computer Club e.V. (1998)
+* The Zero Dollar Laptop Manifesto, by James Wallbank (2007)
+* The Lo-Fi Manifesto, by Karl Stolley (2008)
+* The Uppsala Declaration, by the Swedish Piratpartiet (2008)
+* Guerilla Open Access Manifesto, by Aaron Swartz (2008)
+* POwr, Broccoli and Kopimi, by the Pirate Bay (2009)
+* Glitch Studies Manifesto, by Rosa Menkman (2009)
+* The WeRebuild Manifesto (2009)
+* The Critical Engineering Manifesto, by Oliver, Savičić, Vasiliev (2011)
+* We, the Web Kids, by Piotr Czerski (2012)
+* Iterative Book Development Manifesto, by Adam Hyde (2012)
+* A CryptoParty Manifesto (2012)
+* Bill Of Computer Users Rights, by Olia Lialina (2013)
+* The Mundane Afrofuturist (2013)
+* Balconism, by Constant Dullaart (2014)
+* A feminist server manifesto (2014)
+* the cybertwee manifesto, by Hileman, Forest, Waver (2014)
+* New Clues, by David Weinberger and Doc Searls (2015)
+* Xenofeminism, by Laboria Cuboniks (2015)
+
+<a name="colonialism"></a> 
+
+*** **Listen to podcast from last cohort [here](https://www.dropbox.com/s/o9g24iynuu9o5nf/ManifestoPodcast.aif?dl=0)**
+
+
 ## On Digital Colonialism 
 <b> Tuesday, April 10, 10am</b>
+
+Reading due: post one paragraph response in the directory named apr_10_assignment/ choosing one of the below material) 
+
+
+
+[In Defense of the Poor Image](http://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
+
+**or**
+
+[Black Quantum Futurism](https://youtu.be/Fd1LHsnlVC8?t=43m3s)  
+
+
+
+**Guest Speaker: Fei Liu** 
+
+
+Fei Liu is a designer, artist, writer, and creative technologist exploring digital empathy and narrative interfaces. She teaches at the Design and Technology program at Parsons, The New School for Design, where she received an MFA. Her previous residencies include Researcher in Residence at the New Museum’s art and tech incubator NEW INC and the Digital Solitude fellowship at Akademie Schloss Solitude in Stuttgart, Germany.
+
 
 <a name="showcase"></a>
 ## Showcase week: No class 

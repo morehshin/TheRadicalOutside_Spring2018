@@ -1,0 +1,16 @@
+I think it’s April, we should be close to twilight, but I'm not sure. I lost the notion of times years ago, the seasons of the year no longer mark anything, not as before, when you could clearly identify them. Now, I don’t know where I am, moving forward or wandering is what we do usually, everyday is more exhausting than the last, everyday is colder, everyday we live with the doubt of whether we will wake up.
+
+After the drought and famine attacked the world, crops were limited, we could no longer afford to feed living beings other than humans, and so the animals began to die. In the transition to this new way of living, the big cities closed their frontiers to avoid the entry of immigrants or refugees and thus to control their resources, they achieved it in the beginning, but it wasn’t enough, they began to exile people who were classified as “non-dispensable” and that is how a massive migration began, without any rationality, it was just a mass of people moving errantly from one place to another looking for ways to survive.
+
+During the day you can see the roads full of people looking for food and shelter to spend the night. We hide and walk to survive the cold, we sleep to forget hunger and we maintain absolute silence so as not to learn about the cruel reality that others live in.
+
+I was born and raised in Sierra Leone, my home was one of the first countries that felt the segregation of cities, they made us "dispensable". Little by little the big corporations started to exploit us, which followed the cold and with the countries of the "first world" they stripped us of what was legally theirs, from one moment to another we didn’t own our land, animals or crops, when we realized what was happening, we had nothing to defend, only the cold and the walk to get shelter and food.
+
+Every night before I sleep I imagine how they are living in the big cities, it is said that being the last to be affected by the cold they managed to take preventive measures in time, I really don’t know, but I do know that these measures are related to the number of walkers who daily join those who have been walking longer.
+
+I have heard rumors that in the south of Nigeria the UN is delivering a type of synthetic food created in laboratories, the truth is I don’t know where that city or country is, I only know that we began to walk there. The life expectancy of all of us is set on this type of food, I don’t trust that much, I ask myself every day on the basis that they create it, because natural products are almost gone, I don’t want to believe that I will eat modified plastic, but I know that if today, now, as I write if I were offered that versus the pain I feel, I would eat it and even enjoy it. I don’t know if I will manage to get there, every time I feel more tired, there are even days when I cannot get up and I need to rest more than usual, I'm feeling in my body and in my mind the wear of walking days without food, of seeing the suffering of people and above all the cold, which is sometimes so intense that you cannot even think.
+
+I have the certainty that they make us walk so much, to kill us little by little, the resources don’t reach all and only some have access to them, why design food if in reality it’s better to die?
+
+We are dying slowly, my body tells me that and now it only feels the cold.
+
